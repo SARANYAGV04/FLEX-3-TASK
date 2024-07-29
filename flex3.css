@@ -1,0 +1,43 @@
+.body{
+    font-family: 'Times New Roman', Times, serif;
+    margin:20px;
+}
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    height: 100px;
+    width:1275px;
+    background-color: limegreen;
+}
+#middle{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.nav{
+    display: flex;
+    flex-wrap: wrap;
+    height: 450px;
+    width: 310px;
+    background-color: bisque;
+}
+.article{
+    display: flex;
+    flex-wrap: wrap;
+    height:450px;
+    width: 650px;
+    background-color: white;
+}
+.aside{
+    display: flex;
+    flex-wrap: wrap;
+    height: 450px;
+    width: 310px;
+    background-color: bisque;
+}
+.footer{
+    display: flex;
+    flex-wrap: wrap;
+    height:100px;
+    width:1275px;
+    background-color: limegreen;
+}
